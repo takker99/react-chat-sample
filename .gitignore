@@ -27,5 +27,4 @@ yarn-error.log*
 /.firebase
 .firebaserc
 chatData.rules
-firebase.json
 firestore.indexes.json
